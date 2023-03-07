@@ -22,12 +22,12 @@ Tudo feito com Clean Code e respeitando as boas práticas de programação.
 # ABSTRAÇÃO DO PROJETO (MVP)
 
 ### Diagrama de entidade-relacionamento: <br>
-![Diagrama de entidade-relacionamento](imagens/Diagrama-MVP.png)
+![Diagrama de entidade-relacionamento](images/Diagrama-MVP.png)
 
 ### Tabelas: <br>
-![Tabela Users](imagens/tabelaUsers.png) <br>
-![Tabela Endereço](imagens/tabelaEndereços.png) <br>
-![Tabelas Meals, Orders e Order's Meals](imagens/tabelaOrdersMealsOrdersMeal.png) <br>
+![Tabela Users](images/tabelaUsers.png) <br>
+![Tabela Endereço](images/tabelaEndereços.png) <br>
+![Tabelas Meals, Orders e Order's Meals](images/tabelaOrdersMealsOrdersMeal.png) <br>
 
 ### FUNCIONALIDADES
 
