@@ -34,10 +34,11 @@ C:\Users\kefre\source\repos\CantinaDoTioBill\bin\Debug\System.ValueTuple.xml
 C:\Users\kefre\source\repos\CantinaDoTioBill\obj\Debug\CantinaDoTioBill.csproj.AssemblyReference.cache
 C:\Users\kefre\source\repos\CantinaDoTioBill\obj\Debug\CantinaDoTioBill.csproj.SuggestedBindingRedirects.cache
 C:\Users\kefre\source\repos\CantinaDoTioBill\obj\Debug\CantinaDoTioBill.exe.config
-C:\Users\kefre\source\repos\CantinaDoTioBill\obj\Debug\CantinaDoTioBill.Form1.resources
 C:\Users\kefre\source\repos\CantinaDoTioBill\obj\Debug\CantinaDoTioBill.Properties.Resources.resources
 C:\Users\kefre\source\repos\CantinaDoTioBill\obj\Debug\CantinaDoTioBill.csproj.GenerateResource.cache
 C:\Users\kefre\source\repos\CantinaDoTioBill\obj\Debug\CantinaDoTioBill.csproj.CoreCompileInputs.cache
 C:\Users\kefre\source\repos\CantinaDoTioBill\obj\Debug\CantinaDoTioBill.csproj.CopyComplete
 C:\Users\kefre\source\repos\CantinaDoTioBill\obj\Debug\CantinaDoTioBill.exe
 C:\Users\kefre\source\repos\CantinaDoTioBill\obj\Debug\CantinaDoTioBill.pdb
+C:\Users\kefre\source\repos\CantinaDoTioBill\obj\Debug\CantinaDoTioBill.LoginRegister.resources
+C:\Users\kefre\source\repos\CantinaDoTioBill\obj\Debug\CantinaDoTioBill.Welcome.resources
